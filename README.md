@@ -1,7 +1,7 @@
 # Advanced Applied Econometrics -- Summer 2026
 
 
-#### Peter Haan (PH), Maxi Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
+#### Peter Haan (PH), Maximilian Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
 
 ### Course organization
 
@@ -9,15 +9,16 @@
 - All material can be found here: https://github.com/AppliedEconBerlin/bsoe_gc_aae_2026
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
-- First session: April 25, 2025
-- Final session: July 11, 2025
-- Exam: July 18, 2025
+- First session: April 17, 2026
+- Final session: July 10, 2026
+- Exam: July 17, 2026
 - Compulsory reading in bold.
 - PhD Evaluation: if this course is taken for credits, the final grade will be determined by
     - 4 problem sets (to be completed in groups of max. 2 participants), weighted 1/8 each,
     - a final exam, weighted 1/2.
-- Master Evaluation: 
-    - Master students need to hand in 3 out of 4 problem sets (to be completed in groups of max. 2 participants). These 3 problem sets will be graded. To qualify for the final exam, a student needs to pass each of the 3 problem sets. A pass requires to get 60% of the points in the problem set. The grade for the course is based on the final exam only.
+- Master Evaluation (TBC):
+    - 2 problem sets out of 4 (to be completed in groups of max. 2 participants) weighted 1/4 each
+    - a final exam, weighted 1/2
 
 ### Course objectives
 
@@ -27,8 +28,8 @@
 - Establish basic estimation techniques & numerical methods such as simulation and numerical integration.
 
 
-### Exam Information:
-- Date: **July 18, 9am**; Elinor Ostrom Hall (DIW); duration 2hrs
+### Exam Information (preliminary):
+- Date: **July 17, 9am**; Elinor Ostrom Hall (DIW); duration 2hrs
 - All material covered in the course is relevant for the exam.
 - There will be no questions on Python/Coding. However, the problem sets are relevant for the exam. You have to be able to conceptually discuss all covered models and implementation techniques.
 - Structure: 1/2 Part I (FW), 1/2 Part II: IO (HU) & labor (PH)
@@ -40,12 +41,11 @@
 
 
 ### Graded Assignment Submission
-
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
-- The fourth graded problem set will be made available soon and is due on **August, 15**.
-- You can accept the fourth graded assignment [here](https://classroom.github.com/a/koXhtqo0).
+- You can accept a test assignment [here](xx).
+
 
 ### Additional tutorial on Graded Assignment 4
 - Date: **Wednesday, August 6, 13:00-14:30pm**
@@ -55,7 +55,7 @@
 ## Lectures
 
 
-### 1 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (April 25, FW)
+### 1 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (April 17, FW)
 
 In this session, we will cover different topics of general interest before turning to more specific methods.
 These are (a) sometimes we are just left with the OLS. Can we learn anything from coefficient movements
@@ -85,7 +85,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 2 Panel Data/Fixed Effects (May 2, FW)
+### 2 Panel Data/Fixed Effects (April 24, FW) - Location: HU Berlin R203
 
 - Fisher inference (see last week for readings)
 - Fixed effects and first differences: identification and interpretation
@@ -105,7 +105,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 3 Difference-in-difference (May 9, FW)
+### 3 Difference-in-difference (May 8, FW)
 
 - Canonical DID model
 - Event study framework, two-way fixed-effects
@@ -132,7 +132,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 4 IV (May 16 and May 23, FW)
+### 4 IV (May 15, FW)
 
 - Introduction: The Wald estimator, IV with homogeneous treatment effects, assessment of instruments
 - LATE: can we learn anything when treatment effects are heterogeneous?
@@ -159,7 +159,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 5 Regression discontinuity (May 30, FW)
+### 5 Regression discontinuity (May 22 & May 29, FW)
 
 - Introduction: Sharp and fuzzy RD
 - Threats to identification and RD diagnostics (bunching, covariate distribution)
@@ -199,7 +199,7 @@ In the second part of the lecture, solutions to the problem sets and their discu
 These problem sets will likely require significant time investment. Please make sure to plan ahead so that you have sufficient time available in this period.
 
 
-### 6 Introduction: econometric modeling of economic choices / Python coding (June 6, PH, MB and MS)
+### 6 Introduction: econometric modeling of economic choices / Python coding (June 5, PH and MS)
 
 - **Methodology fights** Angrist and Pischke (2010), Frijters (2013), Haile (2022), Heckman (2010), Keane (2010), Rust (2010), Rust (2014), Wolpin (2013)
 - **Basics discrete choice** van Soest (1995), Train (2009)
@@ -230,7 +230,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 7 Static discrete choice with market-level data (June 13, HU)
+### 7 Demand estimation with market-level data (June 12, HU)
 
 - Estimating demand and supply parameters in markets with differentiated products using aggregate (product-level) data.
 - Coding exercise: preliminaries.
@@ -247,7 +247,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 8 Static discrete choice with market-level data (June 20, HU)
+### 8 Demand estimation with market-level data (June 19, HU)
 
 - Recap Berry et al. (1995).
 - Coding exercise: Berry et al. (1995) nested fixed-point (NFP) algorithm.
@@ -261,7 +261,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 9 Dynamic discrete choice (CHANGE OF DATE: June 25, 15:30-18:30, HU)
+### 9 Dynamic discrete choice (June 26, HU)
 
 - Introduction to dynamics
 - Estimating a single-agent dynamic discrete choice model: Rust (1987) engine replacement problem
@@ -275,7 +275,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 10 Dynamic discrete choice in Labour (July 4, PH, MB and MS)
+### 10 Dynamic discrete choice in Labour I (July 3, PH and MS)
 
 - Dynamic incentives to labour supply: investing in human capital
 - More on Discretisation
@@ -289,7 +289,7 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### 11 Dynamic discrete choice in Labour (July 11, PH, MB and MS)
+### 11 Dynamic discrete choice in Labour II (July 10, PH and MS)
 
 - Dynamic incentives to labour supply: the role of education, full time and part time experience
 - Identification and validation of structural parameters
@@ -301,5 +301,5 @@ These problem sets will likely require significant time investment. Please make 
 
 
 
-### Exam (July 18)
+### Exam (July 17)
 
