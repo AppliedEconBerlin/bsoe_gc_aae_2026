@@ -17,8 +17,8 @@
     - 4 problem sets (to be completed in groups of max. 2 participants), weighted 1/8 each,
     - a final exam, weighted 1/2.
 - Master Evaluation (TBC):
-    - 2 problem sets out of 4 (to be completed in groups of max. 2 participants) weighted 1/4 each
-    - a final exam, weighted 1/2
+    - 3 problem sets out of 4 (to be completed in groups of max. 3 participants) 
+    - a final exam (weighting depends on the rules of your program)
 
 ### Course objectives
 
@@ -44,11 +44,12 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
-- You can accept a test assignment [here](xx).
+- You can accept a assignments using the links below:
+    - Test assignment [here](xx).
 
 
 ### Additional tutorial on Graded Assignment 4
-- Date: **Wednesday, August 6, 13:00-14:30pm**
+- Date: tbc
 - The session will be held online. The link to the meeting will be distributed to course participants by e-mail.
 
 
@@ -159,7 +160,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 5 Regression discontinuity (May 22 & May 29, FW)
+### 5 Regression discontinuity (May 22 & May 29, FW) - Location on May 29: DIW Berlin, R3.3.002A-C
 
 - Introduction: Sharp and fuzzy RD
 - Threats to identification and RD diagnostics (bunching, covariate distribution)
