@@ -100,7 +100,7 @@ Starting with Assignment 0, all assignments are **group assignments**. You will 
 ## Lectures
 
 
-### 1 Omitted Variable Bias, Assessing Models, Fisher Inference, Stata (April 17, FW)
+### 1 Omitted Variable Bias, Assessing Models, Oster Bounds (April 17, FW)
 
 In this session, we will cover different topics of general interest before turning to more specific methods.
 These are (a) sometimes we are just left with the OLS. Can we learn anything from coefficient movements
