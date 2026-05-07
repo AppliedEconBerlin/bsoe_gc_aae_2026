@@ -169,6 +169,8 @@ Then:
 
 - Marianne Bertrand, Esther Duflo, Sundhil Mullainathan (2004), How much should we trust differences-in-differences estimates? *Quarterly Journal of Economics, 119* (1):249-275.
 
+- Brantly Callaway and Pedro H.C. Sant’Anna (2021), Difference-in-Differences with multiple time periods, Journal of Econometrics, Volume 225, Issue 2.
+
 - **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**, https://mixtape.scunning.com/09-difference_in_differences.
 
 - Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
