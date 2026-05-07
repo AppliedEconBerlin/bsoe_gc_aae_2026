@@ -5,7 +5,7 @@
 
 ## Course organization
 
-- The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Ostrom Hall).
+- The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Ostrom Hall), except when indicated otherwise (see below).
 - All material can be found here: https://github.com/AppliedEconBerlin/bsoe_gc_aae_2026
 - PhD: Credit points: 9 ECTS
 - Master: Credit points: 6 ECTS
@@ -130,7 +130,7 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 2 Panel Data/Fixed Effects (April 24, FW) - Location: HU Berlin R203
+### 2 Heterogeneity and Fisher Inference, plus review FX (April 24, FW) - Location: HU Berlin R203
 
 - Fisher inference (see last week for readings)
 - Fixed effects and first differences: identification and interpretation
@@ -150,12 +150,16 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 3 Difference-in-difference (May 8, FW)
+### 3 Difference-in-difference (May 8 and May 15, FW)
 
+- Recap: Complier analysis in OLS etc (using late_complier ado-file)
+Then:
 - Canonical DID model
-- Event study framework, two-way fixed-effects
-- Potential issues: Staggered treatment, parallel trends, inference
-- Misspecification and weighting in OLS
+- Event study framework, two-way fixed-effects, triple Diffs
+- Potential issues: Pretesting, parallel trends, inference, pretesting
+- Misspecification and weighting in OLS, Bacon decomposition and modern DD estimators
+
+- Two exercises on this. Exercise 6 is DD and DDD, Exercise 7 is on failures of the TWFE estimator in staggered designs with time-varying effects.
 
 #### References
 
@@ -176,11 +180,10 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 - Felix Weinhardt (2014) Social Housing, Neighborhood Quality and Student Performance, *Journal of Urban Economics* 2014, vol. 82: pp.12-31. https://doi.org/10.1016/j.jue.2014.06.001
 
 
-
-### 4 IV (May 15, FW)
+### 4 IV (May 22, FW) NOTE: again in R203 at the Spandauer Str. 1 (close to S Hackescher Markt) in HU Econ department
 
 - Introduction: The Wald estimator, IV with homogeneous treatment effects, assessment of instruments
-- LATE: can we learn anything when treatment effects are heterogeneous?
+- LATE: can we learn anything when treatment effects are heterogeneous? How to do IV-complier analysis
 - Stata implementations
 - Essential references in bold
 
@@ -204,9 +207,9 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 
 
-### 5 Regression discontinuity (May 22 & May 29, FW) - Location on May 29: DIW Berlin, R3.3.002A-C
+### 5 Regression discontinuity (May 29, FW) - Location on May 29: DIW Berlin, R3.3.002A-C
 
-- Introduction: Sharp and fuzzy RD
+- Introduction: Sharp and fuzzy RD, relation to IV
 - Threats to identification and RD diagnostics (bunching, covariate distribution)
 - Specification issues: choice of bandwidth, polynomial, control variables
 - Regression kink design
@@ -230,7 +233,8 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 
 - Niklas Gohl, Elisabeth Kurz, Peter Haan and Felix Weinhardt (2023) Working Life and Human Capital Investment: Causal Evidence from Pension Reform. *Labour Economics* vol. 84(October). https://doi.org/10.1016/j.labeco.2023.102426
 
-- Sanchis-Guarner, R., Montalban, J., & Weinhardt, F. (2021). Home broadband and human capital formation. Available at SSRN 3772087. https://www.cesifo.org/DocDL/cesifo1_wp8846.pdf
+- Sanchis-Guarner, R., Montalban, J., & Weinhardt, F. (2021). Home broadband and human capital formation. Economics of Education Review 2025, vol. 108. https://doi.org/10.1016/j.econedurev.2025.102679.
+
 
 ## Lectures - Part 2
 
