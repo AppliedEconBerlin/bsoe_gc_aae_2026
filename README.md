@@ -153,10 +153,11 @@ and David Card, eds., Vol. 3 of Handbook of Labor Economics, Elsevier, 1999, pp.
 ### 3 Difference-in-difference (May 8 and May 15, FW)
 
 - Recap: Complier analysis in OLS etc (using late_complier ado-file)
+
 Then:
 - Canonical DID model
 - Event study framework, two-way fixed-effects, triple Diffs
-- Potential issues: Pretesting, parallel trends, inference, pretesting
+- Potential issues: Pretesting, parallel trends, inference
 - Misspecification and weighting in OLS, Bacon decomposition and modern DD estimators
 
 - Two exercises on this. Exercise 6 is DD and DDD, Exercise 7 is on failures of the TWFE estimator in staggered designs with time-varying effects.
@@ -173,13 +174,11 @@ Then:
 
 - **Scott Cunningham (2018), Causal Inference: The Mixtape, Chapter “Difference-in-Differences”**, https://mixtape.scunning.com/09-difference_in_differences.
 
-- Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,”https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
-
 - Jonathan Roth, Pedro H. C. Sant’Anna, Alyssa Bilinski, John Poe (2022), “What’s Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,” https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf
 
-- Jan Bietenbeck, Andreas Leibing, Jan Marcus and Felix Weinhardt (2023), *European Economic Review*, vol. 154. https://doi.org/10.1016/j.euroecorev.2023.104431
+- Jan Bietenbeck, Andreas Leibing, Jan Marcus and Felix Weinhardt (2023), Tuition Fees and Educational Attainment, *European Economic Review*, vol. 154. https://doi.org/10.1016/j.euroecorev.2023.104431
 
-- Felix Weinhardt (2014) Social Housing, Neighborhood Quality and Student Performance, *Journal of Urban Economics* 2014, vol. 82: pp.12-31. https://doi.org/10.1016/j.jue.2014.06.001
+- Felix Weinhardt (2014), Social Housing, Neighborhood Quality and Student Performance, *Journal of Urban Economics* 2014, vol. 82: pp.12-31. https://doi.org/10.1016/j.jue.2014.06.001
 
 
 ### 4 IV (May 22, FW) NOTE: again in R203 at the Spandauer Str. 1 (close to S Hackescher Markt) in HU Econ department
