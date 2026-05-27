@@ -243,8 +243,7 @@ In the second part of the lecture, solutions to the problem sets and their discu
 
 - Up to three teams will present different parts of the problem set.
 - Students are not expected to have perfect solutions but should discuss their challenges and obstacles.
-- Solutions to the problem sets will be provided one day before the lecture.
-- Deadlines for graded problem sets are on Wednesdays at 23:59, prior to the lecture.
+- We will discuss assignment of teams to presentation slots on June 5th.
 
 These problem sets will likely require significant time investment. Please make sure to plan ahead so that you have sufficient time available in this period.
 
