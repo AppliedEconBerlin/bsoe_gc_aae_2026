@@ -1,0 +1,27 @@
+name: aae2026
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  # Numerics
+  - numpy>=1.26
+  - scipy>=1.12
+  # Data
+  - pandas>=2.2
+  # Econometrics
+  - statsmodels>=0.14
+  # Notebooks & IDE support
+  - jupyterlab>=4.0
+  - ipykernel>=6.0        # registers the env as a Jupyter kernel
+  # Plotting
+  - matplotlib>=3.8
+  - seaborn>=0.13         # higher-level plotting, useful for descriptives
+  # Utilities
+  - tqdm>=4.0             # progress bars (useful for simulations/loops)
+  - pip
+  - pip:
+    # Not available on conda channels — install via pip
+    - linearmodels>=6.0
