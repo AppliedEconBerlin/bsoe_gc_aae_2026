@@ -104,6 +104,7 @@ There are two main ways to run Python code:
 - [DataCamp](https://app.datacamp.com): Interactive courses. Some are free with a university email. You can also join the course classroom for additional free access — email mschaller@diw.de.
   - [Intro to Python for Data Science](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
   - [Introduction to NumPy](https://app.datacamp.com/learn/courses/introduction-to-numpy)
+  - [Data manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
 **Advanced / economics-specific:**
 - [QuantEcon Lectures](https://quantecon.org/lectures/): Covers dynamic programming, heterogeneous agents, and more.
