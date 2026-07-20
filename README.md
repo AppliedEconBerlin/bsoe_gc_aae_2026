@@ -46,7 +46,7 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to three people. Please create or join a team when accepting an Assignment. The list of teams from the previous assignment will be displayed. You are free to switch teams during the semester, although we ask you to generally stick to the same groups.
 - After a team is joined, a team repository is created, where you will upload your solutions.
-- **Link to graded assignment 4:** tba
+- **Link to graded assignment 4:** [here](https://classroom.github.com/a/SRVljYeC)
 - If you have any issues accepting the assignment or questions about the submission process, please contact [mschaller@diw.de](mailto:mschaller@diw.de).
 
 
@@ -87,12 +87,6 @@ Starting with Assignment 0, all assignments are **group assignments**. You will 
 - Follow the instructions in the repository's README
 - This introductory assignment walks you through the full GitHub workflow: cloning, editing files, committing, and pushing
 - **Coordinate with your teammates:** See the "Team Collaboration Workflow" section in the Assignment 0 README for best practices on working together in the shared repository
-
-
-
-### Additional tutorial on Graded Assignment 4
-- Date: tbc
-- The session will be held online. The link to the meeting will be distributed to course participants by e-mail.
 
 
 ---
